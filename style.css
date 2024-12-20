@@ -54,6 +54,7 @@ input:focus-visible{outline: 0;}
     .form-sec{padding: 30px;}
     .avatar-sec img{max-width: 70px;}
     .main-screen {padding-top:0px;}
+    .wrapper:after{display: none;}
 }
 @media only screen and (max-width:375px){
     .form-sec { padding: 30px 20px;}
