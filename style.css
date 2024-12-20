@@ -38,7 +38,7 @@ input:focus-visible{outline: 0;}
 
 /* responsive */
 @media only screen and (min-width:1550px){
-    h1{font-size: 85px;}
+    h1{font-size: 80px;}
     h1 span{font-size: 65px;}
 }
 @media only screen and (max-width:992px){
