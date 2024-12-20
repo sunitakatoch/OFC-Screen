@@ -46,7 +46,7 @@ input:focus-visible{outline: 0;}
     .main-screen {padding-top: 40px;}
     h1 span{font-size: 38px;}
     h2{font-size: 28px;}
-    .form-sec{background-image: none;background-color: #fee1ee;border-radius: 20px;padding: 40px 35px 40px;}
+    .form-sec{background-image: linear-gradient(#fee1ee, #eeebfc);border-radius: 20px;padding: 40px 35px 40px;}
     .wrapper{overflow: auto;padding: 10px 15px;display: block;}
     .main-bg{display: none;}
 }
